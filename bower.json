@@ -1,0 +1,19 @@
+{
+  "name": "form-generator",
+  "version": "0.0.0",
+  "authors": [
+    "goku <kakarrot.sh@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "jquery-dragarrange": "~0.2.0"
+  }
+}
